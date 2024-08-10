@@ -7,7 +7,7 @@
 
 #include <iostream>
 
-int main(){
+int main2(){
     
     float a,b,c,d,r = 0;
     

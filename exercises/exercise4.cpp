@@ -8,7 +8,7 @@
 #include <iostream>
 
 
-int main(){
+int main4(){
     
     int x,y,aux = 0;
     

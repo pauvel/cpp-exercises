@@ -10,6 +10,7 @@
 		183398BF2C67EA45009A2B24 /* exercise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 183398BE2C67EA45009A2B24 /* exercise2.cpp */; };
 		183398C12C67FBC7009A2B24 /* exercise3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 183398C02C67FBC7009A2B24 /* exercise3.cpp */; };
 		183398C32C680282009A2B24 /* exercise4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 183398C22C680282009A2B24 /* exercise4.cpp */; };
+		183398C52C681430009A2B24 /* exercise5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 183398C42C681430009A2B24 /* exercise5.cpp */; };
 		18E273FD2C657F8C003F869B /* exercise1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18E273FC2C657F8C003F869B /* exercise1.cpp */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		183398BE2C67EA45009A2B24 /* exercise2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise2.cpp; sourceTree = "<group>"; };
 		183398C02C67FBC7009A2B24 /* exercise3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise3.cpp; sourceTree = "<group>"; };
 		183398C22C680282009A2B24 /* exercise4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise4.cpp; sourceTree = "<group>"; };
+		183398C42C681430009A2B24 /* exercise5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise5.cpp; sourceTree = "<group>"; };
 		18E273F92C657F8C003F869B /* exercises */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = exercises; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E273FC2C657F8C003F869B /* exercise1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,6 +69,7 @@
 				183398BE2C67EA45009A2B24 /* exercise2.cpp */,
 				183398C02C67FBC7009A2B24 /* exercise3.cpp */,
 				183398C22C680282009A2B24 /* exercise4.cpp */,
+				183398C42C681430009A2B24 /* exercise5.cpp */,
 			);
 			path = exercises;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183398C52C681430009A2B24 /* exercise5.cpp in Sources */,
 				18E273FD2C657F8C003F869B /* exercise1.cpp in Sources */,
 				183398C12C67FBC7009A2B24 /* exercise3.cpp in Sources */,
 				183398C32C680282009A2B24 /* exercise4.cpp in Sources */,
